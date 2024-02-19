@@ -1,4 +1,4 @@
-# CVIP-DataScience
+# Coders Cave - DataScience (Project 1)
 
 Here we made a email spam filter using ***logistic regression*** it classifies the ***email.csv*** file .The model has to ways of giving the output
 1. one is for the user to give some random email as input 
